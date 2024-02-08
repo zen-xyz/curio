@@ -1,0 +1,2 @@
+# curio
+django practice project 
